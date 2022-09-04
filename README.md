@@ -1,7 +1,9 @@
+# Kabuki
 
-<h1 align="center">Hi 👋, I'm Kabuki</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/KokumaruGarasu/posts.svg)](http://qiita.com/KokumaruGarasu)
+
+<h1 >Hi 👋, I'm Kabuki</h1>
+<h3 >A passionate frontend developer from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
