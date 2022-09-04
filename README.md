@@ -1,8 +1,9 @@
-# Kabuki
+# Hi 👋, I'm Kabuki
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/KokumaruGarasu/posts.svg)](http://qiita.com/KokumaruGarasu)
 
-<h1 >Hi 👋, I'm Kabuki</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acidrefluxreflex)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 ">A passionate frontend developer from Japan</h3>
 
 - 🌱 I’m currently learning **Next.js**
