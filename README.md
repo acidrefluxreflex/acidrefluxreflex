@@ -23,4 +23,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acidrefluxreflex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acidrefluxreflex&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=acidrefluxreflex&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
